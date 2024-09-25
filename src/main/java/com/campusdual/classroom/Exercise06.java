@@ -91,6 +91,7 @@ public class Exercise06 {
                 System.out.println("Autumn");
                 break;
 
+
             }
             default:
                 throw new IllegalArgumentException("Unexpected value: " + month);
